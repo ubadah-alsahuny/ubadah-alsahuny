@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ubadah-alsahuny/ubadah-alsahuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ubadah, a software engineer based in Syria.
 
-Here are some ideas to get you started:
+I mostly work on frontend stuff - React, TypeScript, Tailwind CSS, and also on app development using Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+## Tools & Tech
+- React, Typescript, Tailwind CSS
+- Flutter
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+## A Bit About Me
+- I am a passionate singer/songwriter 🎤
+- My favorite color is yellow 💛
+- A recipient of the IELTS certificate scoring 7.0/9.0 in 2023 💯
