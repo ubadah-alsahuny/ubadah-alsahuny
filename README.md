@@ -15,6 +15,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
 ## A Bit About Me
-- I am a passionate singer/songwriter 🎤
-- My favorite color is yellow 💛
-- A recipient of the IELTS certificate scoring 7.0/9.0 in 2023 💯
+- I am a passionate <ins>singer/songwriter</ins> 🎤
+- My favorite color is _yellow_ 💛
+- A recipient of the **IELTS** certificate scoring 7.0/9.0 in 2023 💯
