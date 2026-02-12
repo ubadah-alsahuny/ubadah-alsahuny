@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Ubadah, a software engineer based in Syria.
+I am **Ubadah**, a **software engineer** based in Syria.
 
-I mostly work on frontend stuff - React, TypeScript, Tailwind CSS, and also on app development using Flutter.
+I mostly work on frontend stuff - **React**, **TypeScript**, **Tailwind CSS**, and also on app development using **Flutter**.
 
 This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
 
